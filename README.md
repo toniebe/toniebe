@@ -28,6 +28,10 @@ I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy lea
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about games 
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 <br />
 
 ### Connect with me:
