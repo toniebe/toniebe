@@ -1,10 +1,12 @@
-### Hi there 👋, Ahmad Fathoni Zumaro
+# Ahmad Fathoni Zumaro
 #### I am Android Developer
 ![I am Android Developer](https://github.com/toniebe/toniebe/blob/main/banner.png)
 
 I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy learning languages and framework like React Native.
 
-Skills:  REACT NATIVE / JS / HTML / CSS
+## Skills and Experience
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on My Own Company 
 - 🌱 I’m currently learning React Native 
