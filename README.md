@@ -4,8 +4,6 @@
 
 I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy learning languages and framework like React Native.
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,12 +22,14 @@ I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy lea
 <br />
 <br />
 
+
 - 🔭 I’m currently working on My Own Company 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about games 
 
-
+<br />
+### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/toniebe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/toniebe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thoniz04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ebetonii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](toniebe.github.io)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true)  
