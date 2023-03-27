@@ -1,15 +1,10 @@
 # Ahmad Fathoni Zumaro
 I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy learning languages and framework like React Native.
 
-<table>
-  <tr>
-    <td> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toniebe&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-    </td>
-    <td>
-      ![toniebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true&theme=radical)
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toniebe&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br />
+![toniebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true&theme=radical)
+
 
 
 - 🔭 I’m currently working on Klikcair
