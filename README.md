@@ -6,7 +6,7 @@ I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy lea
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about anime or drakor
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true)  
 
 <br />  
 
