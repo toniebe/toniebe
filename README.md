@@ -7,8 +7,8 @@ I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy lea
 - 💬 Ask me about anime or drakor
 
 <br />  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true&theme=dracula)  
+![toniebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniebe&show_icons=true&theme=dracula) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toniebe&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![toniebe's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toniebe&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
