@@ -1,7 +1,7 @@
 # Ahmad Fathoni Zumaro
 I'm Ahmad Fathoni Zumaro from Indonesia, you can call me ebe. I really enjoy learning languages and framework like React Native.
 
-- 🔭 I’m currently working on Klikcair
+- 🔭 I’m currently working on GUE Ecosystem
 - 🌱 I’m currently learning React Native Typescript
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about anime or drakor
